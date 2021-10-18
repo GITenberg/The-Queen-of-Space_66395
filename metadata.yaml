@@ -1,11 +1,16 @@
 _repo: The-Queen-of-Space_66395
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66395-h/images/cover.jpg
 creator:
   author:
     agent_name: Slotkin, Joseph
     gutenberg_agent_id: '53790'
     url: http://www.gutenberg.org/2009/agents/53790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66395#The-Queen-of-Space
 gutenberg_issued: '2021-09-27'
 identifiers:
   gutenberg: '66395'
